@@ -1,0 +1,32 @@
+[
+    {
+      "company": "CompanyA",
+      "car_model": "Model1",
+      "date_of_sale": "2023-01-15",
+      "price": 25000
+    },
+    {
+      "company": "CompanyA",
+      "car_model": "Model2",
+      "date_of_sale": "2023-02-20",
+      "price": 32000
+    },
+    {
+      "company": "CompanyA",
+      "car_model": "Model3",
+      "date_of_sale": "2024-03-10",
+      "price": 28000
+    },
+    {
+      "company": "CompanyA",
+      "car_model": "Model4",
+      "date_of_sale": "2024-04-05",
+      "price": 35000
+    },
+    {
+      "company": "CompanyA",
+      "car_model": "Model5",
+      "date_of_sale": "2025-01-18",
+      "price": 40000
+    }
+  ]
